@@ -2,12 +2,12 @@
 
 ## Решения
 ### Задание 1
- * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/0626c331e17dae7c932eac4720eb00ddf07a7c70/5.classes/task.js">task.js</a> - код с реализованными функциями.
+ * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/5.classes/task.js">task.js</a> - код с реализованными функциями.
 
-<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/0626c331e17dae7c932eac4720eb00ddf07a7c70/5.classes">Репозиторий</a> с заданием и тестами.
+<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/bjs-53/5.classes">Репозиторий</a> с заданием и тестами.
 Запуск через:
-* <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/0626c331e17dae7c932eac4720eb00ddf07a7c70/5.classes/index.html">index.html</a>,
-* <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/2717c0c707c09ca208807eebae2e30c6ed171ca0/5.classes/student_tests.html">student_tests.html</a>.
+* <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/5.classes/index.html">index.html</a>,
+* <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/5.classes/student_tests.html">student_tests.html</a>.
 
 ## Что было сделано
 * Создан родительский класс PrintEditionItem, описывающий свойства печатного издания и имеющий метод "починки" (увеличение значения одного из свойств), при вызове у экземпляра класса.
